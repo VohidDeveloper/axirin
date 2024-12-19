@@ -66,10 +66,6 @@
     .whaybest .about-img {
         padding: 0px 60px;
     }
-    .whaybest .about-img img{
-        border: 2px solid red;
-
-    }
     .feature .feature-box .details .title,
     .dealofweek .deal-slider-area .content .right-area .name,
     .about .box .inner-box .title,
@@ -228,7 +224,6 @@
           margin-bottom: 30px;
       }
       .whaybest .about-img img{
-        border: 2px solid red;
           animation: unset;
           max-width: 350px;
           display: inline-block;
